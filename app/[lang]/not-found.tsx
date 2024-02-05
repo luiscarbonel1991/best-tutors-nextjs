@@ -21,7 +21,7 @@ export default function NotFound() {
                 <Button asChild variant="default" >
 
                     <Link
-                        href="/"
+                        href="/public"
                     >
                         Back to homepage
                     </Link>

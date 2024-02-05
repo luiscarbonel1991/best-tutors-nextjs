@@ -1,0 +1,18 @@
+{
+  "marketing_page": {
+    "welcome": "Bienvenue",
+    "find_the_best": "Trouvez le meilleur",
+    "upgrade_your_skills": "Améliorez vos compétences avec les meilleurs tuteurs du monde.",
+    "get_started": "Commencez",
+    "tutor": "Tuteur"
+  },
+  "languages": {
+    "en": "Anglais",
+    "es": "Espagnol",
+    "fr": "Français",
+    "ja": "Japonais",
+    "de": "Allemand",
+    "zh": "Chinois",
+    "pt": "Portugais"
+  }
+}
