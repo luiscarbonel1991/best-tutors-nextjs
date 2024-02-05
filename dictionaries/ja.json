@@ -1,0 +1,18 @@
+{
+  "marketing_page": {
+    "welcome": "ようこそ",
+    "find_the_best": "最高を見つける",
+    "upgrade_your_skills": "世界最高のチューターでスキルアップ。",
+    "get_started": "始めましょう",
+    "tutor": "チューター"
+  },
+  "languages": {
+    "en": "英語",
+    "es": "スペイン語",
+    "fr": "フランス語",
+    "ja": "日本語",
+    "de": "ドイツ語",
+    "zh": "中国語",
+    "pt": "ポルトガル語"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "marketing_page": {
+    "welcome": "欢迎",
+    "find_the_best": "找到最好的",
+    "upgrade_your_skills": "与世界上最好的导师一起提升你的技能。",
+    "get_started": "开始",
+    "tutor": "导师"
+  },
+  "languages": {
+    "en": "英语",
+    "es": "西班牙语",
+    "fr": "法语",
+    "ja": "日语",
+    "de": "德语",
+    "zh": "中文",
+    "pt": "葡萄牙语"
+  }
+}
